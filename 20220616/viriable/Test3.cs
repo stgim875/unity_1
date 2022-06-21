@@ -14,4 +14,3 @@ public class Test1 : MonoBehaviour
         Debug.Log(name);
     }
 }
-

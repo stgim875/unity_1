@@ -13,7 +13,4 @@ public class Test1 : MonoBehaviour
         age = 30;
         Debug.Log(age);
     }
-
-
 }
-
