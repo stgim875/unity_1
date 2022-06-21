@@ -26,9 +26,6 @@ public class Test1 : MonoBehaviour
         int answer3;
         answer3 = 8 / 4;
         Debug.Log(answer3);
-
     }
-
-
 }
 
