@@ -11,4 +11,3 @@ public class Test1 : MonoBehaviour
         // 코드 2-4 변수에 변수대입하기
     }
 }
-
