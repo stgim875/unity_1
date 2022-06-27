@@ -7,7 +7,11 @@ public class Test1 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // 변수 초기화와 대입(76p ~ 77p) 
-        // 코드 2-4 변수에 변수대입하기
+        // for 문으로 반복하기
+        // 코드 2-19 짝수만 출력하기(95p)
+        for (int i = 0; i < 10; i += 2)
+        {
+            Debug.Log(i);
+        }
     }
 }
